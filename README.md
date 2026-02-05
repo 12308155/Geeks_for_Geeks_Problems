@@ -9,3 +9,6 @@
 * Largest_element
 * Merge_Sort
 * Linear Search
+
+* permutations
+* 
