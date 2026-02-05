@@ -11,4 +11,4 @@
 * Linear Search
 
 * permutations
-* 
+* subsets problem
