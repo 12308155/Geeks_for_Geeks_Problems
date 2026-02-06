@@ -12,3 +12,4 @@
 
 * permutations
 * subsets problem
+sudoko 
