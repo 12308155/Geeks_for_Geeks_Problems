@@ -14,3 +14,4 @@ tower of hohnoi
 * subsets problem
 sudoko
 array leaders done
+power of two
