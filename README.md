@@ -15,3 +15,4 @@ tower of hohnoi
 sudoko
 array leaders done
 power of two
+prime factorisatiom dome
