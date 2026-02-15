@@ -16,6 +16,8 @@ sudoko
 array leaders done
 power of two
 prime factorisatiom dome
-cpp foundaation
-done swap a numbers
+* cpp foundaation
+* done swap a numbers
+* print in new line
+* 
 
