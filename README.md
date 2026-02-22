@@ -19,5 +19,7 @@ prime factorisatiom dome
 * cpp foundaation
 * done swap a numbers
 * print in new line
+* shortest job first done
+* 
 * 
 
