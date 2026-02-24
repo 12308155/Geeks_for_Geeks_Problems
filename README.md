@@ -20,6 +20,8 @@ prime factorisatiom dome
 * done swap a numbers
 * print in new line
 * shortest job first done
-* 
+* preorder Traversal
+* post ordertraversal
+* inorder traversal
 * 
 
